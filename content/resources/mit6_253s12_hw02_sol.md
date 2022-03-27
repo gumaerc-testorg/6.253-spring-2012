@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3c7b3804-e304-46e2-a516-8a89712dcc82
 resourcetype: Document
 title: 6.253 Convex Analysis and Optimization, Homework 02 Solutions
 uid: 9930cdcf-286c-1f32-0c41-4b9cebaa1b47

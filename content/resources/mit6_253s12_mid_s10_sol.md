@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6c6ef910-c529-067c-52c7-e419b6ffbcbc
 resourcetype: Document
 title: 6.253 Convex Analysis and Optimization, Spring 2010 Midterm Solutions
 uid: 22c59393-2434-f1bb-33f1-ddcf7f52f367

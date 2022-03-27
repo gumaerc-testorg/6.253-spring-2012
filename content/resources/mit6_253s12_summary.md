@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 780f68b1-d347-1e49-785b-5d968c051a6c
 resourcetype: Document
 title: 'Convex Optimization Theory, Athena Scientific: A Summary'
 uid: db7bde2c-d43e-8dba-ba11-f6911311b87c

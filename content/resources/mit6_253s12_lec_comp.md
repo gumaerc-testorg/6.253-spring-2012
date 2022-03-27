@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 8b8878fb-c6c4-3ed0-0871-4c37aaf3d9c0
 resourcetype: Document
 title: 6.253 Convex Analysis and Optimization
 uid: 6c63c621-9c60-378b-c27d-5b4a9167f1bc
