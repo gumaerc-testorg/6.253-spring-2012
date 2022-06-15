@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides lecture notes and readings for each session of
+  the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -9,7 +11,7 @@ uid: 8b8878fb-c6c4-3ed0-0871-4c37aaf3d9c0
 
 This section contains lecture notes and some associated readings.
 
-[Complete lecture notes (PDF - 7.7MB)]({{< baseurl >}}/resources/mit6_253s12_lec_comp)
+{{% resource_link 6c63c621-9c60-378b-c27d-5b4a9167f1bc "Complete lecture notes (PDF - 7.7MB)" %}}
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -40,7 +42,7 @@ Algorithms and duality
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 1 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_253s12_lec01)
+{{% resource_link 8508c98d-d2a4-00f9-1035-eb2241727d7a "Lecture 1 (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -62,7 +64,7 @@ Recognizing convex functions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec02)
+{{% resource_link be0c5767-1f3f-5058-c20f-dbf7bf5ecdb8 "Lecture 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Section 1.1
@@ -82,7 +84,7 @@ Caratheodory's theorem
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 3 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec03)
+{{% resource_link 3e2a100d-7fa3-2763-7ed8-e31771a22c18 "Lecture 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 1.1, 1.2
@@ -104,7 +106,7 @@ Closures of functions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 4 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec04)
+{{% resource_link 08cf1b8b-29d9-b0b3-d793-e0ee91ce58a2 "Lecture 4 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Section 1.3
@@ -126,7 +128,7 @@ Existence of optimal solutions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 5 (PDF - 1.0MB)]({{< baseurl >}}/resources/mit6_253s12_lec05)
+{{% resource_link 69136e79-7daa-75d9-481c-21d1f6b84a31 "Lecture 5 (PDF - 1.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 1.4, 3.1, 3.2
@@ -148,7 +150,7 @@ Hyperplanes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 6 (PDF - 1.4MB)]({{< baseurl >}}/resources/mit6_253s12_lec06)
+{{% resource_link f9fe72e7-516e-b399-aa23-cd268d29b918 "Lecture 6 (PDF - 1.4MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -172,7 +174,7 @@ Examples
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 7 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec07)
+{{% resource_link d69d863d-4f21-64ec-f278-50221ebb3b59 "Lecture 7 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 1.5, 1.6
@@ -194,7 +196,7 @@ Special cases
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 8 (PDF - 1.2MB)]({{< baseurl >}}/resources/mit6_253s12_lec08)
+{{% resource_link 0bf9cd59-7d0a-b693-bab7-5f83ae5e61a3 "Lecture 8 (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 1.6, 4.1, 4.2
@@ -218,7 +220,7 @@ Existence of dual optimal solutions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 9 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec09)
+{{% resource_link 20b272ad-85dd-2b1c-0912-db39ab30e0c0 "Lecture 9 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 3.4, 4.3, 4.4, 5.1
@@ -242,7 +244,7 @@ Optimality conditions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 10 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec10)
+{{% resource_link 9f80ea20-51c1-0cc0-f8cf-3839983c381a "Lecture 10 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 4.5, 5.1, 5.2, 5.3.1–5.3.2
@@ -262,7 +264,7 @@ Conic duality
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 11 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec11)
+{{% resource_link 19c72f4d-8730-3765-c392-5112f5926282 "Lecture 11 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Sections 5.3.1–5.3.6
@@ -286,7 +288,7 @@ Optimality conditions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 12 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec12)
+{{% resource_link b12e49c6-94b2-11b3-0d7c-e6fffc81ff08 "Lecture 12 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Section 5.4
@@ -304,7 +306,7 @@ Conic programming
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 13 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec13)
+{{% resource_link f9db676d-7b12-9597-24c5-302cb5c70c67 "Lecture 13 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -328,10 +330,10 @@ Steepest descent method
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 14 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec14)
+{{% resource_link 8726621a-4567-0543-2028-ab7053c8900f "Lecture 14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6: Convex Optimization Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -348,7 +350,7 @@ Convergence
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 15 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec15)
+{{% resource_link 1814d845-fc72-f1ad-285b-e44cf8cb3663 "Lecture 15 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -368,7 +370,7 @@ Cutting plane methods
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 16 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec16)
+{{% resource_link 7bc6c1c8-119c-b8c0-24a6-cb36687bad5d "Lecture 16 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -388,7 +390,7 @@ Duality between cutting plane and simplicial decomposition
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 17 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec17)
+{{% resource_link 2710d17a-ff6b-2989-d7c1-b2eac2af2c84 "Lecture 17 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -406,7 +408,7 @@ Combined cutting plane and simplicial decomposition methods
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 18 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec18)
+{{% resource_link ee4dd519-ad01-5412-b40f-60545c339c99 "Lecture 18 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 Bertsekas, Dimitri, and Huizhen Yu. "[A Unifying Polyhedral Approximation Framework for Convex Optimization](http://www.mit.edu/~dimitrib/SIAM_Version.pdf)." _SIAM Journal on Optimization_ 21, no. 1 (2011): 333–60.
@@ -424,7 +426,7 @@ Extensions
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 19 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec19)
+{{% resource_link 27b2c620-989f-eee3-c112-cd36241eb464 "Lecture 19 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -450,7 +452,7 @@ Dual proximal minimization algorithm
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 20 (PDF - 1.1MB)]({{< baseurl >}}/resources/mit6_253s12_lec20)
+{{% resource_link 5e4388c4-15e6-2709-8cf6-8bb4f4d7aa44 "Lecture 20 (PDF - 1.1MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -472,7 +474,7 @@ Conic programming cases
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 21 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec21)
+{{% resource_link ab62379c-355a-1a62-4961-bc43162761a7 "Lecture 21 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -498,12 +500,12 @@ Cyclic and randomized component selection
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 22 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec22)
+{{% resource_link 4b208d42-aadb-ed08-2ef4-28f2e9638ebd "Lecture 22 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Bertsekas, Dimitri. ["Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://web.mit.edu/dimitrib/www/Incremental_Survey_LIDS.pdf) _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
+Bertsekas, Dimitri. ["Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey." (PDF)](http://web.mit.edu/dimitrib/www/Incremental_Survey_LIDS.pdf) _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016469) Sra, Suvrit, Sebastian Nowozin, and Stephen Wright, eds. [_Optimization for Machine Learning_](https://mitpress.mit.edu/9780262016469). MIT Press, 2011. ISBN: 9780262016469.
 
@@ -530,7 +532,7 @@ Optimal algorithms
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 23 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec23)
+{{% resource_link d3a21ae8-133b-7e08-0699-3b28ad8317e9 "Lecture 23 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -554,7 +556,7 @@ Entropic descent algorithm
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 24 (PDF)]({{< baseurl >}}/resources/mit6_253s12_lec24)
+{{% resource_link 239d3e6b-a9f1-1278-0468-ab4d1fc5fb4b "Lecture 24 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -580,7 +582,7 @@ Convex optimization algorithms
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 25 (PDF - 2.0MB)]({{< baseurl >}}/resources/mit6_253s12_lec25)
+{{% resource_link f54a926d-f334-6e5d-23ca-59548cce103a "Lecture 25 (PDF - 2.0MB)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
