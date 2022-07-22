@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, textbook, topics covered, and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 780f68b1-d347-1e49-785b-5d968c051a6c
 ---
@@ -32,9 +36,9 @@ Textbook
 
 Bertsekas, Dimitri. [_Convex Optimization Theory_](http://www.athenasc.com/convexduality.html). Athena Scientific, 2009. ISBN: 9781886529311.
 
-[Chapter 6: Convex Optimization Algorithms (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
 
-[Summary of concepts and results (PDF)]({{< baseurl >}}/resources/mit6_253s12_summary) (Courtesy of Athena Scientific. Used with permission.)
+{{% resource_link db7bde2c-d43e-8dba-ba11-f6911311b87c "Summary of concepts and results (PDF)" %}} (Courtesy of Athena Scientific. Used with permission.)
 
 ### Additional References
 
