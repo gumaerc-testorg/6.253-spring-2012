@@ -5,6 +5,7 @@ file: /courses/6-253-convex-analysis-and-optimization-spring-2012/22c593932434f1
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 6.253 Convex Analysis and Optimization, Spring 2010 Midterm Solutions
 uid: 22c59393-2434-f1bb-33f1-ddcf7f52f367
 ---
 This resource contains information regarding 2010 midterm with solutions.
-
