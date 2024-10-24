@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to linear transformation. '
-file: /courses/6-253-convex-analysis-and-optimization-spring-2012/9930cdcf286c1f320c414b9cebaa1b47_MIT6_253S12_hw02_sol.pdf
+file: /ol-ocw-studio-app/courses/6-253-convex-analysis-and-optimization-spring-2012/9930cdcf286c1f320c414b9cebaa1b47_MIT6_253S12_hw02_sol.pdf
 file_size: 218513
 file_type: application/pdf
 learning_resource_types:

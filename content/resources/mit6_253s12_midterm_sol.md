@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding 2012 midterm with solutions.
-file: /courses/6-253-convex-analysis-and-optimization-spring-2012/772b8b0aace4b5eaa1397b2da8adad87_MIT6_253S12_midterm_sol.pdf
+file: /ol-ocw-studio-app/courses/6-253-convex-analysis-and-optimization-spring-2012/772b8b0aace4b5eaa1397b2da8adad87_MIT6_253S12_midterm_sol.pdf
 file_size: 90469
 file_type: application/pdf
 learning_resource_types:
