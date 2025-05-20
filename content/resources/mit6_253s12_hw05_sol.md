@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains solutions for the problem statements related
   to cartesian product. '
-file: /ol-ocw-studio-app/courses/6-253-convex-analysis-and-optimization-spring-2012/906236c9b1adcc1aac789d7cd04ebe1a_MIT6_253S12_hw05_sol.pdf
+file: /courses/6-253-convex-analysis-and-optimization-spring-2012/906236c9b1adcc1aac789d7cd04ebe1a_MIT6_253S12_hw05_sol.pdf
 file_size: 254533
 file_type: application/pdf
 learning_resource_types:
