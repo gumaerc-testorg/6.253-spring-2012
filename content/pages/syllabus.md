@@ -34,17 +34,17 @@ A course in linear algebra (preferably abstract) and a course in real analysis, 
 Textbook
 --------
 
-Bertsekas, Dimitri. [_Convex Optimization Theory_](http://www.athenasc.com/convexduality.html). Athena Scientific, 2009. ISBN: 9781886529311.
+Bertsekas, Dimitri. {{% resource_link "0f7906e8-d114-4e4e-b8bd-86dbe960e4cd" "_Convex Optimization Theory_" %}}. Athena Scientific, 2009. ISBN: 9781886529311.
 
-[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+{{% resource_link "8807af12-7811-4bb9-9915-366793a89f67" "Chapter 6: Convex Optimization Algorithms (PDF)" %}}
 
 {{% resource_link db7bde2c-d43e-8dba-ba11-f6911311b87c "Summary of concepts and results (PDF)" %}} (Courtesy of Athena Scientific. Used with permission.)
 
 ### Additional References
 
-Rockafellar, Ralph. _Convex Analysis_. Princeton University Press, 1996. ISBN: 9780691015866. \[Preview with [Google Books](http://books.google.com/books?id=1TiOka9bx3sC&printsec=frontcover)\]
+Rockafellar, Ralph. _Convex Analysis_. Princeton University Press, 1996. ISBN: 9780691015866. \[Preview with {{% resource_link "00e467c7-24b1-41c0-bcb7-767d50fd56d1" "Google Books" %}}\]
 
-Boyd, Stephen, and Lieven Vandenberghe. _Convex Optimization_. Cambridge University Press, 2004. ISBN: 9780521833783. \[Preview with [Google Books](http://books.google.com/books?id=mYm0bLd3fcoC&printsec=frontcover)\] [_6.079 Introduction to Convex Optimization_](/courses/6-079-introduction-to-convex-optimization-fall-2009) follows this textbook.
+Boyd, Stephen, and Lieven Vandenberghe. _Convex Optimization_. Cambridge University Press, 2004. ISBN: 9780521833783. \[Preview with {{% resource_link "58ae2e60-33f0-4468-89af-8046a8f5d081" "Google Books" %}}\] [_6.079 Introduction to Convex Optimization_](/courses/6-079-introduction-to-convex-optimization-fall-2009) follows this textbook.
 
 Bertsekas, Dimitri, Angelia Nedic, and Asuman Ozdaglar. _Convex Analysis and Optimization_. Athena Scientific, 2003. ISBN: 9781886529458.
 

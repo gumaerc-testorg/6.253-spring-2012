@@ -333,7 +333,7 @@ Steepest descent method
 {{% resource_link 8726621a-4567-0543-2028-ab7053c8900f "Lecture 14 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Chapter 6: Convex Optimization Algorithms (PDF)](http://www.athenasc.com/convexdualitychapter.pdf)
+{{% resource_link "8807af12-7811-4bb9-9915-366793a89f67" "Chapter 6: Convex Optimization Algorithms (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -411,7 +411,7 @@ Combined cutting plane and simplicial decomposition methods
 {{% resource_link ee4dd519-ad01-5412-b40f-60545c339c99 "Lecture 18 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-Bertsekas, Dimitri, and Huizhen Yu. "[A Unifying Polyhedral Approximation Framework for Convex Optimization](http://www.mit.edu/~dimitrib/SIAM_Version.pdf)." _SIAM Journal on Optimization_ 21, no. 1 (2011): 333–60.
+Bertsekas, Dimitri, and Huizhen Yu. "{{% resource_link "a102edd1-5113-4c19-99dd-f4abbc30e18d" "A Unifying Polyhedral Approximation Framework for Convex Optimization" %}}." _SIAM Journal on Optimization_ 21, no. 1 (2011): 333–60.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -505,9 +505,9 @@ Cyclic and randomized component selection
 {{< tdopen >}}
 
 
-Bertsekas, Dimitri. ["Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey." (PDF)](http://web.mit.edu/dimitrib/www/Incremental_Survey_LIDS.pdf) _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
+Bertsekas, Dimitri. {{% resource_link "ba2e9a29-f7ec-463a-a877-b3ae42e5e58f" "\"Incremental Gradient, Subgradient, and Proximal Methods for Convex Optimization: A Survey.\" (PDF)" %}} _Laboratory for Information and Decision Systems Report LIDS-P-2848_, MIT, August 2010.
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262016469) Sra, Suvrit, Sebastian Nowozin, and Stephen Wright, eds. [_Optimization for Machine Learning_](https://mitpress.mit.edu/9780262016469). MIT Press, 2011. ISBN: 9780262016469.
+{{% resource_link "bb8064e6-8f7a-409e-803a-852d53fb5bb2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Sra, Suvrit, Sebastian Nowozin, and Stephen Wright, eds. {{% resource_link "bb8064e6-8f7a-409e-803a-852d53fb5bb2" "_Optimization for Machine Learning_" %}}. MIT Press, 2011. ISBN: 9780262016469.
 
 
 {{< tdclose >}}
@@ -563,7 +563,7 @@ Entropic descent algorithm
 
 Beck, Amir, and Marc Teboulle. "Gradient-Based Algorithms with Applications to Signal-Recovery Problems." In _Convex Optimization in Signal Processing and Communications._ Edited by Daniel Palomar and Yonina Eldar. Cambridge University Press, 2010. ISBN: 9780521762229.
 
-Beck, Amir, and Marc Teboulle. "[Mirror Descent and Nonlinear Projected Subgradient Methods for Convex Optimization](http://dx.doi.org/10.1016/S0167-6377(02)00231-6)." _Operations Research Letters_ 31, no. 3 (2003): 167–75.
+Beck, Amir, and Marc Teboulle. "{{% resource_link "26828f5a-ffff-40cf-96e5-50bc2bd63d5d" "Mirror Descent and Nonlinear Projected Subgradient Methods for Convex Optimization" %}}." _Operations Research Letters_ 31, no. 3 (2003): 167–75.
 
 Bertsekas, Dimitri. _Nonlinear Programming_. Athena Scientific, 1999. ISBN: 9781886529007.
 
